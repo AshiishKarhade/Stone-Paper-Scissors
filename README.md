@@ -14,10 +14,10 @@ I recently got to knew about the Google's Teachable Machine in which you just ca
 
 ### Flow
 ```
-* Open teachable machine website and select the Image Project
-* Add 3 classes for stone, papers and scissors by clicking 500 images of each class
-* Train the model and save it on your local computer
-* Make changes in script.py (model name)
-* run script.py
-* Play the game
+1. Open teachable machine website and select the Image Project
+2. Add 3 classes for stone, papers and scissors by clicking 500 images of each class
+3. Train the model and save it on your local computer
+4. Make changes in script.py (model name)
+5. run script.py
+6. Play the game
 ```
