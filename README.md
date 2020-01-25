@@ -21,3 +21,5 @@ I recently got to knew about the Google's Teachable Machine in which you just ca
 5. run script.py
 6. Play the game
 ```
+
+![Screenshot](https://github.com/AshiishKarhade/Stone-Paper-Scissors/blob/master/1.png)
